@@ -1,0 +1,1 @@
+Define Variables in Release Pipeline Using Classic Editor, Variable Group, Use Variable Groups in YAML, Variables, Ways to refer Variables - Macro, Template expression & Runtime Expression
